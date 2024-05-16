@@ -1,15 +1,17 @@
 # Roadmap-de-Hardware-Hacking
 
 # Pré-requisitos: 
-Conhecimento básico de eletrônica
-Programação
-Conceitos de segurança da informação
+
+* Conhecimento básico de eletrônica
+* Programação
+* Conceitos de segurança da informação
 
 # Kit Inicial :
-Ferro de solda e estanho (fio de solda)
-Placa de desenvolvimento (Arduino, raspbery pi, ou ESP 32 ou 8826)
-Jumpers (macho x macho ou macho x fêmea)
-Multimetro 
+
+* Ferro de solda e estanho (fio de solda)
+* Placa de desenvolvimento (Arduino, raspbery pi, ou ESP 32 ou 8826)
+* Jumpers (macho x macho ou macho x fêmea)
+* Multimetro 
 
 # Roadmap:
 
